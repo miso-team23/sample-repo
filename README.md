@@ -1,3 +1,3 @@
 # Hello, git!
-Jenkins Service hook test
-Jenkins Service hook test 2
+Update test
+test 2
